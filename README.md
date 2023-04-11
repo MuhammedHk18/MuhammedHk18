@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **MuhammedHk18/MuhammedHk18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with PocketMine
 - 💬 Ask me about PHP
 - 📫 How to reach me: [Discord!]Just Muhammed#1866
--->
+
