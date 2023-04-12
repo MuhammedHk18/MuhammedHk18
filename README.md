@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [PotMCPE Network!][https://potmcpe.xyz]!
+- 🔭 I’m currently working on [PotMCPE Network](https://potmcpe.xyz)
 - 🌱 I’m currently learning everything 🤣
 - 👯  I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with PocketMine
 - 💬 Ask me about PHP
-- 📫 How to reach me: [Discord!]Just Muhammed#1866
+- 📫 How to reach me with discord: Just Muhammed#1866
 
 ### Languages and Tools:
 
